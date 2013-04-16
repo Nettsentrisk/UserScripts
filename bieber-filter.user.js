@@ -18,4 +18,4 @@
 for (var a = document.evaluate("//*[contains(@href,'bieber') or contains(@href,'Bieber') or contains(@title,'Bieber') or contains(text(),'BIEBER') or contains(@title,'belieber') or contains(text(),'belieber') or contains(@title,'Telenor Arena') or contains(text(),'Bieber') or contains(text(),'Justin')]/ancestor::*[contains(@class,'ddCell') or contains(@class,'article-extract') or contains(@class,'gridUnit') or contains(@class,'article_small') or contains(@class,'art_medium')][1]", document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null), b = a.snapshotLength - 1; b >= 0; b--) {
     var c = a.snapshotItem(b);
     c.parentNode.removeChild(c);	
-}
+} 
