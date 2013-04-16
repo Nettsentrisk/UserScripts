@@ -12,6 +12,8 @@
 // @match        	http://www.nrk.no/*
 // @match        	http://www.aftenposten.no/*
 // @match        	http://www.nettavisen.no/*
+// @match           http://www.bt.no/*
+// @match           http://www.ba.no/*
 // @description    	Klarer vi fjerne alle nyhetssaker om Justin Bieber? Vi prøver!
 // ==/UserScript==
 
