@@ -4,11 +4,13 @@
 // @namespace      	https://github.com/Nettsentrisk
 // @include        	http://www.dagbladet.no/*
 // @include        	http://www.vg.no/*
+// @include         http://www.tv2.no/*
 // @include        	http://www.nrk.no/*
 // @include        	http://www.aftenposten.no/*
 // @include        	http://www.nettavisen.no/*
 // @match        	http://www.dagbladet.no/*
 // @match        	http://www.vg.no/*
+// @match           http://www.tv2.no/*
 // @match        	http://www.nrk.no/*
 // @match        	http://www.aftenposten.no/*
 // @match        	http://www.nettavisen.no/*
