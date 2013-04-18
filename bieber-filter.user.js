@@ -7,11 +7,15 @@
 // @include        	http://www.nrk.no/*
 // @include        	http://www.aftenposten.no/*
 // @include        	http://www.nettavisen.no/*
+// @include         http://www.bt.no/*
+// @include         http://www.ba.no/*
 // @match        	http://www.dagbladet.no/*
 // @match        	http://www.vg.no/*
 // @match        	http://www.nrk.no/*
 // @match        	http://www.aftenposten.no/*
 // @match        	http://www.nettavisen.no/*
+// @match           http://www.bt.no/*
+// @match           http://www.ba.no/*
 // @description    	Klarer vi fjerne alle nyhetssaker om Justin Bieber? Vi prøver!
 // ==/UserScript==
 
